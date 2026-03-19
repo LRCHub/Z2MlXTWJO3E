@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "HeLLo",
   "base_artist": "Mrs. GREEN APPLE",
-  "createdAt": "2025-12-04T12:42:13.131126Z",
+  "createdAt": "2026-03-19T15:29:42.548254Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -139,6 +139,15 @@
       "artist": "Mrs. GREEN APPLE",
       "has_synced": false,
       "path": "select/pl_01_HeLLo_Mrs._GREEN_APPLE.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "HeLLo",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/localdb_01_HeLLo_Mrs._GREEN_APPLE.lrc",
+      "repo_name": "7TfQR5z5kqs"
     }
   ]
 }
